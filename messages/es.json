@@ -11,5 +11,30 @@
       "ctaButtom1": "Comprar Ahora",
       "ctaButtom2": "Explorar Productos"
     }
+  },
+  "Cart": {
+    "CartSheet": {
+      "title": "Carrito",
+      "empthyCart": "Tu carrito está vacío.",
+      "info": "Los gastos de envío e impuestos se calculan al finalizar la compra.",
+      "button1": "Efectuar pago",
+      "link": "o",
+      "button2": "Continuar Comprando"
+    }
+  },
+  "Header": {
+    "Links": {
+      "home": "Inicio",
+      "products": "Productos",
+      "about": "Sobre nosotros",
+      "contact": "Contacto",
+      "blog": "Blog"
+    },
+    "Menu": { "accesibilityButton": "Abrir menú móvil" },
+    "MobileLinks": {
+      "cartButton": "Carrito",
+      "favoritesButton": "Favoritos",
+      "accountButton": "Cuenta"
+    }
   }
 }

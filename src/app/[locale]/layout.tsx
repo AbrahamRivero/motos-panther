@@ -5,6 +5,7 @@ import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import "../globals.css";
+import Header from "@/components/layout/header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -40,7 +41,10 @@ export default async function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
-          <TrpcProvider>{children}</TrpcProvider>
+          <TrpcProvider>
+            <Header />
+            {children}
+          </TrpcProvider>
         </NextIntlClientProvider>
       </body>
     </html>

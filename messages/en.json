@@ -11,5 +11,30 @@
       "ctaButtom1": "Shop Now",
       "ctaButtom2": "Explore Products"
     }
+  },
+  "Cart": {
+    "CartSheet": {
+      "title": "Shopping Cart",
+      "empthyCart": "Your cart is empthy.",
+      "info": "Shipping and taxes calculated at checkout.",
+      "button1": "Checkout",
+      "link": "or",
+      "button2": "Continue Shopping"
+    }
+  },
+  "Header": {
+    "Links": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About",
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "Menu": { "accesibilityButton": "Open mobile menu" },
+    "MobileLinks": {
+      "cartButton": "Shopping Cart",
+      "favoritesButton": "Favorites",
+      "accountButton":"Account"
+    }
   }
 }
