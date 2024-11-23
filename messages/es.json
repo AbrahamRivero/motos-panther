@@ -1,0 +1,15 @@
+{
+  "Metadata": {
+    "title": "Bike - Tu destino definitivo para los entusiastas de las motocicletas",
+    "description": "Descubra una amplia colección de motocicletas de marcas icónicas como Harley-Davidson, Ducati, Kawasaki y más. En Bike, atendemos a todos los motociclistas, ya sea que le gusten las motos deportivas de alta velocidad, las cruisers clásicas o las motocicletas eléctricas. Explore nuestro inventario de primer nivel, reseñas detalladas y precios competitivos para encontrar su vehículo perfecto. Libere al guerrero de la carretera que lleva dentro con Bike!"
+  },
+  "HomePage": {
+    "Banner": {
+      "title": "La Revolución de las motocicletas",
+      "subtitle": "Experimente la emoción de recorrer las carretera con nuestra selección premium de motocicletas y equipos.",
+      "imageAltText": "Motocicleta en el camino",
+      "ctaButtom1": "Comprar Ahora",
+      "ctaButtom2": "Explorar Productos"
+    }
+  }
+}

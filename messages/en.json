@@ -1,0 +1,15 @@
+{
+  "Metadata": {
+    "title": "Bike - Your Ultimate Destination for Motorcycle Enthusiasts",
+    "description": "Discover a vast collection of motorcycles from iconic brands like Harley-Davidson, Ducati, Kawasaki, and more. At Bike, we cater to all riders, whether you're into high-speed sports bikes, classic cruisers, or electric motorcycles. Explore our top-notch inventory, detailed reviews, and competitive prices to find your perfect ride. Unleash the road warrior in you with Bike!"
+  },
+  "HomePage": {
+    "Banner": {
+      "title": "The Motorcycle Revolution",
+      "subtitle": "Experience the thrill of the open road with our premium selection of motorcycles and gear.",
+      "imageAltText": "Motorcycle on a road",
+      "ctaButtom1": "Shop Now",
+      "ctaButtom2": "Explore Products"
+    }
+  }
+}
